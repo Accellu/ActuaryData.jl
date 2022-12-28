@@ -1,0 +1,13 @@
+name = "ActuaryData"
+uuid = "5f251f55-9938-47c4-8d5a-863343057458"
+authors = ["John Stevens"]
+version = "0.1.0"
+
+[compat]
+julia = "1.8"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
